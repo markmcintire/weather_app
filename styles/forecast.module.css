@@ -1,0 +1,17 @@
+h1.title { color: rgb(1, 1, 64);
+            font-size: 60px;
+            margin-left: 40px;
+            margin-top: 10px;
+}
+
+.day { margin-top : 30px;
+    margin-left: 40px}
+
+.name { color: rgb(1, 1, 64);
+        font-size: 40px;
+        font-style: italic;
+        text-decoration-line: underline;}
+.forecast {
+    font-size: 25px;
+    margin-right: 40px;
+}
